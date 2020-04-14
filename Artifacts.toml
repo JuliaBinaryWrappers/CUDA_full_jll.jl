@@ -1,25 +1,25 @@
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "4f2b116aedac4a714740321abd0aff965d90f04d"
+git-tree-sha1 = "9b8fdc73cee547029c746f8abf69b9e1855f0ae5"
 os = "macos"
 
     [[CUDA_full.download]]
-    sha256 = "824431d61745b2affd018f6f8cdad5656421e13921c0b147f11cdea4f9ad836c"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v10.0.130+2/CUDA_full.v10.0.130.x86_64-apple-darwin14.tar.gz"
+    sha256 = "f0cfb38861babd277a11b5782ca28c4764138b376ef97d7e8462a810ed3326ef"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v10.1.243+2/CUDA_full.v10.1.243.x86_64-apple-darwin14.tar.gz"
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "7a47de18e8ebaa40500c11c32d29e69da1530975"
+git-tree-sha1 = "ddfa253b3e6bfbfe34cab2a11221f122302844f7"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_full.download]]
-    sha256 = "a39b1856d5650eb1a9f6353dda6cb4353b23f9680a898cdd3081527175cb46c7"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v10.0.130+2/CUDA_full.v10.0.130.x86_64-linux-gnu.tar.gz"
+    sha256 = "dffcd6ce117621266160d715b8aa2b4ed0fab9e1b36b03d4b01d98bc540ff1a3"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v10.1.243+2/CUDA_full.v10.1.243.x86_64-linux-gnu.tar.gz"
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "3769880fa032aee151060215a63c9deddaeec944"
+git-tree-sha1 = "1e6dbbf65a0a98bf4c0d7b9678e2754ae50cb0ad"
 os = "windows"
 
     [[CUDA_full.download]]
-    sha256 = "13efb34cdb16f277c64f0290ca4faa2b51f44fdf598869a2759b5dd985aff5a3"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v10.0.130+2/CUDA_full.v10.0.130.x86_64-w64-mingw32.tar.gz"
+    sha256 = "e7a68def8b62a72fa0b5470cb7d7bc6e6bf3b458dba810a9c19baf4b91cb914d"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v10.1.243+2/CUDA_full.v10.1.243.x86_64-w64-mingw32.tar.gz"
