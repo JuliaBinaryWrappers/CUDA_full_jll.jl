@@ -3,6 +3,7 @@
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "PATH"
+LIBPATH_default = ""
 
 """
 Open all libraries
