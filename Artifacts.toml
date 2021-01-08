@@ -1,25 +1,26 @@
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "077b98168fa2d53df1f996a4119980f734a0120e"
+git-tree-sha1 = "f72005da2e8f4470b49e212fd6c3c625642c40d1"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_full.download]]
-    sha256 = "76178bda8e3967b64e266fdd9dc49ec638e400d4b959f76e9989e86936374b0c"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v10.2.89+3/CUDA_full.v10.2.89.x86_64-linux-gnu.tar.gz"
+    sha256 = "7faa2aa93436214063ae59acab0e656723966d7ceb908483f25ed3929a9133a3"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.0.3+1/CUDA_full.v11.0.3.x86_64-linux-gnu.tar.gz"
 [[CUDA_full]]
-arch = "x86_64"
-git-tree-sha1 = "7d6baa6d6a4dd9ec3dd94251e5106071f0dab288"
-os = "macos"
+arch = "powerpc64le"
+git-tree-sha1 = "f43c68ba667304445bac0ff5508b59f7d48a10df"
+libc = "glibc"
+os = "linux"
 
     [[CUDA_full.download]]
-    sha256 = "ad657d0729c2ab3b184c5eab9a8ab5a42bfbd5bb5e37786d60bfafb9293b2db2"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v10.2.89+3/CUDA_full.v10.2.89.x86_64-apple-darwin.tar.gz"
+    sha256 = "dadb55dad7f223bb4908a7a90e470da3a12cd64bc3a041c89d07a4b23cf9820e"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.0.3+1/CUDA_full.v11.0.3.powerpc64le-linux-gnu.tar.gz"
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "dd617f8e95e9da19ee6a04488557f7cba948620e"
+git-tree-sha1 = "8324c25b731dcd1361e5cf1e408837cb844457a7"
 os = "windows"
 
     [[CUDA_full.download]]
-    sha256 = "eb7e59a0f54a5d60d809eede032bfb164d74a20859bbe6a3b83d6b173331e47a"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v10.2.89+3/CUDA_full.v10.2.89.x86_64-w64-mingw32.tar.gz"
+    sha256 = "0661bc4ea4946223e8e441d8a8163377fedae0fcfb8ba0682c9f4b48577012bf"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.0.3+1/CUDA_full.v11.0.3.x86_64-w64-mingw32.tar.gz"
