@@ -1,35 +1,35 @@
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "e34f375b31613ffed53fa8506cf9512063a72b9a"
+git-tree-sha1 = "6b45dc47d69f41ec2bf4ad985a222da05a009871"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_full.download]]
-    sha256 = "181580bf75258d37607c9384079ce6d38b685ecd810448ffab8c4477b2c140ec"
+    sha256 = "f045af4dc1fbf941b305b5d7bf6e3d97a83d12923fa74d69c2b2878b2eeaaa07"
     url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.5.0+0/CUDA_full.v11.5.0.x86_64-linux-gnu.tar.gz"
 [[CUDA_full]]
 arch = "powerpc64le"
-git-tree-sha1 = "7d433404a792eec65efd62dd21a3c9bc554836a9"
+git-tree-sha1 = "2688ba8bb179beb9c4bcf8a9214a19e705fb4ff9"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_full.download]]
-    sha256 = "019d42c20cd0d20b2052fdbc16646f17d65473b80bbbf3f3c233dd60620c5377"
+    sha256 = "e782893e818d0910b2683973a0c1e652b240648c3e69b2b9c73fd742ca805af0"
     url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.5.0+0/CUDA_full.v11.5.0.powerpc64le-linux-gnu.tar.gz"
 [[CUDA_full]]
 arch = "aarch64"
-git-tree-sha1 = "4c6b76fdd28d6f63f1f03524efec268aa2467c9f"
+git-tree-sha1 = "877bb7b93a89828d3711668a125fa0af593e944a"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_full.download]]
-    sha256 = "781e1b7d3c3f2bb99ba0ca41c85a4d424f7508aa913fea3f73bdc47655cd0dd8"
+    sha256 = "d74b90bf1673f431083a7936043f1ae52f1df23d63a6e47f947acc53ba8ad410"
     url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.5.0+0/CUDA_full.v11.5.0.aarch64-linux-gnu.tar.gz"
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "ea835f9778690cd1e32a3c2bb9373be5e9cfbb83"
+git-tree-sha1 = "3874d6a18c4a53a820acd5b6578db34215aab23a"
 os = "windows"
 
     [[CUDA_full.download]]
-    sha256 = "0c3adc9d90b69beb0730718247fcb34660fed03d262a7cf31f273241df21792f"
+    sha256 = "3aca8b115fa2e3e4d0194250d11a5b20c6109faa130d4f2f7a42b99c3cd468c0"
     url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.5.0+0/CUDA_full.v11.5.0.x86_64-w64-mingw32.tar.gz"
