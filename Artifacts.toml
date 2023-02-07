@@ -1,26 +1,26 @@
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "6ee064164323fa4354acda8658e4677f77f2f4a5"
+git-tree-sha1 = "f7a8302264e7d95f7bec3f81ec653e23480f089b"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_full.download]]
-    sha256 = "454c65d3da6b62b641d271002212bb196ad62ec12c0ed978364ddd29ab181fc4"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.2.2+1/CUDA_full.v11.2.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "6b5791272fcbd7752160d2f5c144a38a5ab03bdd5c3ffb6216696e53126b2ca6"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.1.1+2/CUDA_full.v11.1.1.x86_64-linux-gnu.tar.gz"
 [[CUDA_full]]
 arch = "powerpc64le"
-git-tree-sha1 = "5f5053d8bb11a7e01e2e88b6130220786d7e36e2"
+git-tree-sha1 = "2eceff0deb65165bcce158973f873b783ecef746"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_full.download]]
-    sha256 = "86e7ef43a60bfd9120957bf6dfb22fddf1b1676bacd3bdda4d9fa6d82a2fbf4e"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.2.2+1/CUDA_full.v11.2.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "a384358098c5f9e630886f3aa491571f082f40504c8df752c1cd99aed9b3f639"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.1.1+2/CUDA_full.v11.1.1.powerpc64le-linux-gnu.tar.gz"
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "f79266d835ac1d6b131815287ac3dd45df2b931e"
+git-tree-sha1 = "8fec472b5086069475d00bb76f62390a78dd4890"
 os = "windows"
 
     [[CUDA_full.download]]
-    sha256 = "37f7c6b2ecce619b19e04c993578d1fb765782219a608722b65fafb509af1775"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.2.2+1/CUDA_full.v11.2.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "ee5df8e9a1e2c7d1aec8d2fc04469cb2a31d80af6ad449c80c5dc1a4f0ef1c99"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.1.1+2/CUDA_full.v11.1.1.x86_64-w64-mingw32.tar.gz"
