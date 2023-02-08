@@ -1,35 +1,26 @@
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "ad40b1998e81f247f241870e52cd2de6e901e513"
+git-tree-sha1 = "3d2b835fdb9327d2336e3fea5aad015ab16d9659"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_full.download]]
-    sha256 = "380e23d91e6a5499b118e41f76550889c22eb057feea38732dbe617c2103e312"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.4.4+2/CUDA_full.v11.4.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "a31cdada5f60ffa379d238cb3c7db89011ca5068d79a54408216c6118ea87c5e"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.3.1+3/CUDA_full.v11.3.1.x86_64-linux-gnu.tar.gz"
 [[CUDA_full]]
 arch = "powerpc64le"
-git-tree-sha1 = "b03d6dae73432e299d50f8b3d111c63aa3e8771c"
+git-tree-sha1 = "9f526276d2e5ddc55c9fc6732e4a03ca49256013"
 libc = "glibc"
 os = "linux"
 
     [[CUDA_full.download]]
-    sha256 = "b0bc70487dfc84fef83a2b364c8ca8ef1a124d81443e17e0cbdb35a062126e57"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.4.4+2/CUDA_full.v11.4.4.powerpc64le-linux-gnu.tar.gz"
-[[CUDA_full]]
-arch = "aarch64"
-git-tree-sha1 = "535246a683fa942009c222b4a55932acbe05d3bc"
-libc = "glibc"
-os = "linux"
-
-    [[CUDA_full.download]]
-    sha256 = "528d7cc56a467d0bdd9387d50468a414c81033894514ee76a51f67cc197c2cd1"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.4.4+2/CUDA_full.v11.4.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "7d9a8359b7a2d807d7017080035edd47de6cd78e9e0d414d39d78f1290391990"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.3.1+3/CUDA_full.v11.3.1.powerpc64le-linux-gnu.tar.gz"
 [[CUDA_full]]
 arch = "x86_64"
-git-tree-sha1 = "9c77966709ea2c4b6275e47bf83665d2c4b36c3a"
+git-tree-sha1 = "9b9daf2a069af85989c30d871cc947c0fb38e186"
 os = "windows"
 
     [[CUDA_full.download]]
-    sha256 = "9deab3c58eee41abf157e5e468d43f13496ba8b4159cea4ec1f9a9301f8bac82"
-    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.4.4+2/CUDA_full.v11.4.4.x86_64-w64-mingw32.tar.gz"
+    sha256 = "1207eb8e1e557c5673f5650d1313493d2d7b16e18f51036bb43d5db68166119e"
+    url = "https://github.com/JuliaBinaryWrappers/CUDA_full_jll.jl/releases/download/CUDA_full-v11.3.1+3/CUDA_full.v11.3.1.x86_64-w64-mingw32.tar.gz"
